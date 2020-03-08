@@ -1,2 +1,1 @@
-# Aplikasi-Pemilihan-Umum
-TUBES PBO
+Membuat aplikasi sederhana menampilkan data hasil pemilu
