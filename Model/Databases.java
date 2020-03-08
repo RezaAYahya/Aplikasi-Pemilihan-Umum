@@ -22,8 +22,8 @@ public class Databases {
     private Statement st;
     private ResultSet rs;
     private String url = "jdbc:mysql://localhost:3306/voting";
-    private String usr = "rezaayahya";
-    private String pass = "delapan8";
+    private String usr = "root";
+    private String pass = "";
 
     public void connectTo() {
         try {
